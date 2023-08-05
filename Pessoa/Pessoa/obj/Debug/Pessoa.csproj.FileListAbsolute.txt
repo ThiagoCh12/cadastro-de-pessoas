@@ -1,0 +1,13 @@
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\bin\Debug\Database1.mdf
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\bin\Debug\Database1_log.ldf
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.Form1.resources
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+C:\Users\Aluno\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.pdb
